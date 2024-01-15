@@ -1,4 +1,4 @@
-# pti_elections
+# PTI Elections
 
 A an application to check the candidates of your assembly..
 
