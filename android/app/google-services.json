@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98173172500",
+    "project_id": "ptielections-2024",
+    "storage_bucket": "ptielections-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98173172500:android:f25c1c2428ee18c0f22001",
+        "android_client_info": {
+          "package_name": "com.fahadwaseem.ptielections.pti_elections"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkcMmNe4eRDTo5MP6zRyxJif-Q37U_Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1339 @@
+{
+  "constituencies": [
+    {
+      "ConstituencyNo": "NA-1",
+      "ConstituencyName": "Chitral",
+      "CandidateName": "Abdul Latif"
+    },
+    {
+      "ConstituencyNo": "NA-2",
+      "ConstituencyName": "Swat-I",
+      "CandidateName": "Dr. Amjad"
+    },
+    {
+      "ConstituencyNo": "NA-3",
+      "ConstituencyName": "Swat-II",
+      "CandidateName": "Saleem ur Rehman"
+    },
+    {
+      "ConstituencyNo": "NA-4",
+      "ConstituencyName": "Swat-III",
+      "CandidateName": "Sohail Sultan"
+    },
+    {
+      "ConstituencyNo": "NA-5",
+      "ConstituencyName": "Upper Dir",
+      "CandidateName": "Sibghatullah"
+    },
+    {
+      "ConstituencyNo": "NA-6",
+      "ConstituencyName": "Lower Dir-I",
+      "CandidateName": "Bashir Khan"
+    },
+    {
+      "ConstituencyNo": "NA-7",
+      "ConstituencyName": "Lower Dir-II",
+      "CandidateName": "Mehboob Shah"
+    },
+    {
+      "ConstituencyNo": "NA-8",
+      "ConstituencyName": "Bajaur",
+      "CandidateName": "Gul Zafar Khan"
+    },
+    {
+      "ConstituencyNo": "NA-9",
+      "ConstituencyName": "Malakand",
+      "CandidateName": "Junaid Akbar"
+    },
+    {
+      "ConstituencyNo": "NA-10",
+      "ConstituencyName": "Buner",
+      "CandidateName": "Barrister Gohar Ali Khan"
+    },
+    {
+      "ConstituencyNo": "NA-11",
+      "ConstituencyName": "Shangla",
+      "CandidateName": "Said Fareed Khan"
+    },
+    {
+      "ConstituencyNo": "NA-12",
+      "ConstituencyName": "Kohistan",
+      "CandidateName": "Taj Muhammad"
+    },
+    {
+      "ConstituencyNo": "NA-13",
+      "ConstituencyName": "Battagram",
+      "CandidateName": "Nawaz Khan"
+    },
+    {
+      "ConstituencyNo": "NA-14",
+      "ConstituencyName": "Mansehra - I",
+      "CandidateName": "Imran Saleem"
+    },
+    {
+      "ConstituencyNo": "NA-15",
+      "ConstituencyName": "Maneshra – II",
+      "CandidateName": "Gustasif Khan"
+    },
+    {
+      "ConstituencyNo": "NA-16",
+      "ConstituencyName": "Abbottabad-I",
+      "CandidateName": "Ali Asghar Khan"
+    },
+    {
+      "ConstituencyNo": "NA-17",
+      "ConstituencyName": "Abbottabad-II",
+      "CandidateName": "Ali Khan Jadoon"
+    },
+    {
+      "ConstituencyNo": "NA-18",
+      "ConstituencyName": "Haripur",
+      "CandidateName": "Omar Ayub Khan"
+    },
+    {
+      "ConstituencyNo": "NA-19",
+      "ConstituencyName": "Swabi-I",
+      "CandidateName": "Asad Qaiser"
+    },
+    {
+      "ConstituencyNo": "NA-20",
+      "ConstituencyName": "Swabi-ll",
+      "CandidateName": "Shahram Tarakai"
+    },
+    {
+      "ConstituencyNo": "NA-21",
+      "ConstituencyName": "Mardan-l",
+      "CandidateName": "Mujahid Khan"
+    },
+    {
+      "ConstituencyNo": "NA-22",
+      "ConstituencyName": "Mardan-ll",
+      "CandidateName": "Muhammad Atif"
+    },
+    {
+      "ConstituencyNo": "NA-23",
+      "ConstituencyName": "Mardan-lll",
+      "CandidateName": "Ali Muhammad Khan"
+    },
+    {
+      "ConstituencyNo": "NA-24",
+      "ConstituencyName": "Charsadda-l",
+      "CandidateName": "Anwar Taj"
+    },
+    {
+      "ConstituencyNo": "NA-25",
+      "ConstituencyName": "Charsadda-ll",
+      "CandidateName": "Fazal Muhammad Khan"
+    },
+    {
+      "ConstituencyNo": "NA-26",
+      "ConstituencyName": "Mohmand",
+      "CandidateName": "Sajid Khan"
+    },
+    {
+      "ConstituencyNo": "NA-27",
+      "ConstituencyName": "Khyber",
+      "CandidateName": "Iqbal Afridi"
+    },
+    {
+      "ConstituencyNo": "NA-28",
+      "ConstituencyName": "Peshawar-l",
+      "CandidateName": "Sajid Nawaz Khan"
+    },
+    {
+      "ConstituencyNo": "NA-29",
+      "ConstituencyName": "Peshawar-ll",
+      "CandidateName": "Arbab Amir Ayub"
+    },
+    {
+      "ConstituencyNo": "NA-30",
+      "ConstituencyName": "Peshawar-lll",
+      "CandidateName": "Shandana Gulzar"
+    },
+    {
+      "ConstituencyNo": "NA-31",
+      "ConstituencyName": "Peshawar-lV",
+      "CandidateName": "Arbab Sher"
+    },
+    {
+      "ConstituencyNo": "NA-32",
+      "ConstituencyName": "Peshawar-V",
+      "CandidateName": "Asif Khan"
+    },
+    {
+      "ConstituencyNo": "NA-33",
+      "ConstituencyName": "Nowshera-l",
+      "CandidateName": "Shahid Ahad Khattak"
+    },
+    {
+      "ConstituencyNo": "NA-34",
+      "ConstituencyName": "Nowshera-ll",
+      "CandidateName": "Zulfiqar"
+    },
+    {
+      "ConstituencyNo": "NA-35",
+      "ConstituencyName": "Kohat",
+      "CandidateName": "Shahriyar Afridi"
+    },
+    {
+      "ConstituencyNo": "NA-36",
+      "ConstituencyName": "Hangu/Orakzai",
+      "CandidateName": "Yousif Khan"
+    },
+    {
+      "ConstituencyNo": "NA-37",
+      "ConstituencyName": "Kurram",
+      "CandidateName": "Luqman Khan"
+    },
+    {
+      "ConstituencyNo": "NA-38",
+      "ConstituencyName": "Karak",
+      "CandidateName": "Shahid Ahmad Khattak"
+    },
+    {
+      "ConstituencyNo": "NA-39",
+      "ConstituencyName": "Bannu",
+      "CandidateName": "Maulana Naseem Shah"
+    },
+    {
+      "ConstituencyNo": "NA-40",
+      "ConstituencyName": "North Waziristan",
+      "CandidateName": "Aurangzeb Khan"
+    },
+    {
+      "ConstituencyNo": "NA-41",
+      "ConstituencyName": "Lakki Marwat",
+      "CandidateName": "Sher Afzal Marwat"
+    },
+    {
+      "ConstituencyNo": "NA-42",
+      "ConstituencyName": "South Waziristan",
+      "CandidateName": "Zubair Khan Wazir"
+    },
+    {
+      "ConstituencyNo": "NA-43",
+      "ConstituencyName": "Tank/Dera Ismail Khan",
+      "CandidateName": "Dawar Khan Kundi"
+    },
+    {
+      "ConstituencyNo": "NA-44",
+      "ConstituencyName": "Dera Ismail Khan-l",
+      "CandidateName": "Ali Amin Gandapur"
+    },
+    {
+      "ConstituencyNo": "NA-45",
+      "ConstituencyName": "Dera Ismail Khan-ll",
+      "CandidateName": "Shoaib Khan Miankhel"
+    },
+    {
+      "ConstituencyNo": "NA-46",
+      "ConstituencyName": "ICT-l",
+      "CandidateName": "Aamir Masood Mughal"
+    },
+    {
+      "ConstituencyNo": "NA-47",
+      "ConstituencyName": "ICT-ll",
+      "CandidateName": "Shoaib Shaheen"
+    },
+    {
+      "ConstituencyNo": "NA-48",
+      "ConstituencyName": "ICT-lll",
+      "CandidateName": "Ali Bukhari"
+    },
+    {
+      "ConstituencyNo": "NA-49",
+      "ConstituencyName": "Attock-l",
+      "CandidateName": "Tahir Sadiq"
+    },
+    {
+      "ConstituencyNo": "NA-50",
+      "ConstituencyName": "Attock-ll",
+      "CandidateName": "Eman Tahir"
+    },
+    {
+      "ConstituencyNo": "NA-51",
+      "ConstituencyName": "Murree",
+      "CandidateName": "Maj. Latasab Satti"
+    },
+    {
+      "ConstituencyNo": "NA-52",
+      "ConstituencyName": "Rawalpindi-l",
+      "CandidateName": "Tariq Aziz Bhatti Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-53",
+      "ConstituencyName": "Rawalpindi-ll",
+      "CandidateName": "Col. Ajmal Sabir"
+    },
+    {
+      "ConstituencyNo": "NA-54",
+      "ConstituencyName": "Rawalpindi-lll",
+      "CandidateName": "Malik Taimoor Masood"
+    },
+    {
+      "ConstituencyNo": "NA-55",
+      "ConstituencyName": "Rawalpindi-lV",
+      "CandidateName": "Raja Basharat"
+    },
+    {
+      "ConstituencyNo": "NA-56",
+      "ConstituencyName": "Rawalpindi-V",
+      "CandidateName": "Shahriyar Riaz"
+    },
+    {
+      "ConstituencyNo": "NA-57",
+      "ConstituencyName": "Rawalpindi-Vl",
+      "CandidateName": "Seemabia Tahir"
+    },
+    {
+      "ConstituencyNo": "NA-58",
+      "ConstituencyName": "Chakwal",
+      "CandidateName": "Ayaz Amir"
+    },
+    {
+      "ConstituencyNo": "NA-59",
+      "ConstituencyName": "Talagang cum Chakwal",
+      "CandidateName": "Muhammad Ruman Ahmad"
+    },
+    {
+      "ConstituencyNo": "NA-60",
+      "ConstituencyName": "Jhelum-l",
+      "CandidateName": "Hassan Adeel Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-61",
+      "ConstituencyName": "Jhelum-ll",
+      "CandidateName": "Ghulam Mustafa Kandwal"
+    },
+    {
+      "ConstituencyNo": "NA-62",
+      "ConstituencyName": "Gujrat-l",
+      "CandidateName": "Chaudhary Ilyas"
+    },
+    {
+      "ConstituencyNo": "NA-63",
+      "ConstituencyName": "Gujrat-ll",
+      "CandidateName": "Sajid Yousaf"
+    },
+    {
+      "ConstituencyNo": "NA-64",
+      "ConstituencyName": "Gujrat-lll",
+      "CandidateName": "Rana Abbas"
+    },
+    {
+      "ConstituencyNo": "NA-65",
+      "ConstituencyName": "Gujrat-lV",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-66",
+      "ConstituencyName": "Wazirabad",
+      "CandidateName": "Muhammad Ahmed Chattha"
+    },
+    {
+      "ConstituencyNo": "NA-67",
+      "ConstituencyName": "Hafizabad",
+      "CandidateName": "Shaukat Bhatti"
+    },
+    {
+      "ConstituencyNo": "NA-68",
+      "ConstituencyName": "M.B.Din-l",
+      "CandidateName": "Haji Imtiaz"
+    },
+    {
+      "ConstituencyNo": "NA-69",
+      "ConstituencyName": "M.B.Din-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-70",
+      "ConstituencyName": "Sialkot-l",
+      "CandidateName": "Mubashar Awan Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-71",
+      "ConstituencyName": "Sialkot-ll",
+      "CandidateName": "Rehana Imtiaz Dar"
+    },
+    {
+      "ConstituencyNo": "NA-72",
+      "ConstituencyName": "Sialkot-lll",
+      "CandidateName": "Amjad Ali Bajwa"
+    },
+    {
+      "ConstituencyNo": "NA-73",
+      "ConstituencyName": "Sialkot-IV",
+      "CandidateName": "Ali Asjid Malhi"
+    },
+    {
+      "ConstituencyNo": "NA-74",
+      "ConstituencyName": "Sialkot-V",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-75",
+      "ConstituencyName": "Narowal-l",
+      "CandidateName": "Dr. Tahir Ali Javed"
+    },
+    {
+      "ConstituencyNo": "NA-76",
+      "ConstituencyName": "Narowal-ll",
+      "CandidateName": "Col. Javed Kholoon"
+    },
+    {
+      "ConstituencyNo": "NA-77",
+      "ConstituencyName": "Gujranwala-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-78",
+      "ConstituencyName": "Gujranwala-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-79",
+      "ConstituencyName": "Gujranwala-lll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-80",
+      "ConstituencyName": "Gujranwala-lV",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-81",
+      "ConstituencyName": "Gujranwala-V",
+      "CandidateName": "Bilal Ejaz"
+    },
+    {
+      "ConstituencyNo": "NA-82",
+      "ConstituencyName": "Sargodha-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-83",
+      "ConstituencyName": "Sargodha-ll",
+      "CandidateName": "Osama Maila"
+    },
+    {
+      "ConstituencyNo": "NA-84",
+      "ConstituencyName": "Sargodha-lll",
+      "CandidateName": "Shafqat Awan Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-85",
+      "ConstituencyName": "Sargodha-lV",
+      "CandidateName": "Khudada Kalyar advocate"
+    },
+    {
+      "ConstituencyNo": "NA-86",
+      "ConstituencyName": "Sargodha-V",
+      "CandidateName": "Miandad Shafqat Baloch"
+    },
+    {
+      "ConstituencyNo": "NA-87",
+      "ConstituencyName": "Khushab-l",
+      "CandidateName": "Malik Omar Aslam"
+    },
+    {
+      "ConstituencyNo": "NA-88",
+      "ConstituencyName": "Khushab-ll",
+      "CandidateName": "Akram Niazi Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-89",
+      "ConstituencyName": "Mianwali-l",
+      "CandidateName": "Jamal Ahsan Khan"
+    },
+    {
+      "ConstituencyNo": "NA-90",
+      "ConstituencyName": "Mianwali-ll",
+      "CandidateName": "Umair Khan Niazi"
+    },
+    {
+      "ConstituencyNo": "NA-91",
+      "ConstituencyName": "Bhakkar-l",
+      "CandidateName": "Sanaullah Mastikhel"
+    },
+    {
+      "ConstituencyNo": "NA-92",
+      "ConstituencyName": "Bhakkar-ll",
+      "CandidateName": "Ali Abbas Bukhari"
+    },
+    {
+      "ConstituencyNo": "NA-93",
+      "ConstituencyName": "Chiniot-l",
+      "CandidateName": "Ghulam Muhammad Lalli"
+    },
+    {
+      "ConstituencyNo": "NA-94",
+      "ConstituencyName": "Chiniot-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-95",
+      "ConstituencyName": "Faisalabad-l",
+      "CandidateName": "Ali Afzal Sahi"
+    },
+    {
+      "ConstituencyNo": "NA-96",
+      "ConstituencyName": "Faisalabad-ll",
+      "CandidateName": "Rai Haider Kharal"
+    },
+    {
+      "ConstituencyNo": "NA-97",
+      "ConstituencyName": "Faisalabad-lll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-98",
+      "ConstituencyName": "Faisalabad-lV",
+      "CandidateName": "Hafiz Mumtaz"
+    },
+    {
+      "ConstituencyNo": "NA-99",
+      "ConstituencyName": "Faisalabad-V",
+      "CandidateName": "Malik Umar Farooq"
+    },
+    {
+      "ConstituencyNo": "NA-100",
+      "ConstituencyName": "Faisalabad-Vl",
+      "CandidateName": "Dr. Nisar Jutt"
+    },
+    {
+      "ConstituencyNo": "NA-101",
+      "ConstituencyName": "Faisalabad-Vll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-102",
+      "ConstituencyName": "Faisalabad-Vlll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-103",
+      "ConstituencyName": "Faisalabad-lX",
+      "CandidateName": "Ali Sarfaraz"
+    },
+    {
+      "ConstituencyNo": "NA-104",
+      "ConstituencyName": "Faisalabad-X",
+      "CandidateName": "Sahibzada Hamid Raza"
+    },
+    {
+      "ConstituencyNo": "NA-105",
+      "ConstituencyName": "T.T.Singh-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-105",
+      "ConstituencyName": "T.T.Singh-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-106",
+      "ConstituencyName": "T.T.Singh-ll",
+      "CandidateName": "Khalid Nawaz Sudharich"
+    },
+    {
+      "ConstituencyNo": "NA-107",
+      "ConstituencyName": "T.T.Singh-lll",
+      "CandidateName": "Riyaz Fatyana"
+    },
+    {
+      "ConstituencyNo": "NA-108",
+      "ConstituencyName": "Jhang-l",
+      "CandidateName": "Sahibzada Mehboob Sultan"
+    },
+    {
+      "ConstituencyNo": "NA-109",
+      "ConstituencyName": "Jhang-ll",
+      "CandidateName": "Sheikh Waqas Akram"
+    },
+    {
+      "ConstituencyNo": "NA-110",
+      "ConstituencyName": "Jhang-lll",
+      "CandidateName": "Sahibzada Ahmed Sultan"
+    },
+    {
+      "ConstituencyNo": "NA-111",
+      "ConstituencyName": "Nankana Sahib-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-112",
+      "ConstituencyName": "Nankana Sahib-ll",
+      "CandidateName": "Brig Ejaz Shah"
+    },
+    {
+      "ConstituencyNo": "NA-113",
+      "ConstituencyName": "Sheikhupura-l",
+      "CandidateName": "Brig Rahat Amanullah Bhatti"
+    },
+    {
+      "ConstituencyNo": "NA-114",
+      "ConstituencyName": "Sheikhupura-ll",
+      "CandidateName": "Ali Asghar Manda"
+    },
+    {
+      "ConstituencyNo": "NA-115",
+      "ConstituencyName": "Sheikhupura-lll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-116",
+      "ConstituencyName": "Sheikhupura-lV",
+      "CandidateName": "Khurram Munj"
+    },
+    {
+      "ConstituencyNo": "NA-117",
+      "ConstituencyName": "Lahore-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-118",
+      "ConstituencyName": "Lahore-ll",
+      "CandidateName": "Aliya Hamza"
+    },
+    {
+      "ConstituencyNo": "NA-119",
+      "ConstituencyName": "Lahore-lll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-120",
+      "ConstituencyName": "Lahore-lV",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-121",
+      "ConstituencyName": "Lahore-V",
+      "CandidateName": "Wasim Qadir"
+    },
+    {
+      "ConstituencyNo": "NA-122",
+      "ConstituencyName": "Lahore-Vl",
+      "CandidateName": "Latif Khosa"
+    },
+    {
+      "ConstituencyNo": "NA-123",
+      "ConstituencyName": "Lahore-Vll",
+      "CandidateName": "Afzaal Azeem Pahat Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-124",
+      "ConstituencyName": "Lahore-Vlll",
+      "CandidateName": "Zameer Jedhu Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-125",
+      "ConstituencyName": "Lahore-IX",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-126",
+      "ConstituencyName": "Lahore-X",
+      "CandidateName": "Malik Karamat Khokhar"
+    },
+    {
+      "ConstituencyNo": "NA-127",
+      "ConstituencyName": "Lahore-Xl",
+      "CandidateName": "Zaheer Abbas Khokhar"
+    },
+    {
+      "ConstituencyNo": "NA-128",
+      "ConstituencyName": "Lahore-Xll",
+      "CandidateName": "Salman Akram Raja Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-129",
+      "ConstituencyName": "Lahore-Xlll",
+      "CandidateName": "Mian Azhar"
+    },
+    {
+      "ConstituencyNo": "NA-130",
+      "ConstituencyName": "Lahore-XlV",
+      "CandidateName": "Dr. Yasmeen Rashid"
+    },
+    {
+      "ConstituencyNo": "NA-131",
+      "ConstituencyName": "Kasur-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-132",
+      "ConstituencyName": "Kasur-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-133",
+      "ConstituencyName": "Kasur-lll",
+      "CandidateName": "Dr. Azeem Zahid Lakhvi"
+    },
+    {
+      "ConstituencyNo": "NA-134",
+      "ConstituencyName": "Kasur-lV",
+      "CandidateName": "Sidra Faisal"
+    },
+    {
+      "ConstituencyNo": "NA-135",
+      "ConstituencyName": "Okara-l",
+      "CandidateName": "Malik Akram Bhatti"
+    },
+    {
+      "ConstituencyNo": "NA-136",
+      "ConstituencyName": "Okara-ll",
+      "CandidateName": "Abdullah Tahir"
+    },
+    {
+      "ConstituencyNo": "NA-137",
+      "ConstituencyName": "Okara-lll",
+      "CandidateName": "Syed Raza Ali Gilani"
+    },
+    {
+      "ConstituencyNo": "NA-138",
+      "ConstituencyName": "Okara-IV",
+      "CandidateName": "Mian Arshad Ali Khan Mayo"
+    },
+    {
+      "ConstituencyNo": "NA-139",
+      "ConstituencyName": "Pakpattan-l",
+      "CandidateName": "Rao Umar Hashim"
+    },
+    {
+      "ConstituencyNo": "NA-140",
+      "ConstituencyName": "Pakpattan-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-141",
+      "ConstituencyName": "Sahiwal-l",
+      "CandidateName": "Rana Aamir Shahzad"
+    },
+    {
+      "ConstituencyNo": "NA-142",
+      "ConstituencyName": "Sahiwal-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-143",
+      "ConstituencyName": "Sahiwal-lll",
+      "CandidateName": "Rai Murtaza Iqbal"
+    },
+    {
+      "ConstituencyNo": "NA-144",
+      "ConstituencyName": "Khanewal-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-145",
+      "ConstituencyName": "Khanewal-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-146",
+      "ConstituencyName": "Khanewal-lll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-147",
+      "ConstituencyName": "Khanewal-lV",
+      "CandidateName": "Mian Naveed Jahania"
+    },
+    {
+      "ConstituencyNo": "NA-148",
+      "ConstituencyName": "Multan-l",
+      "CandidateName": "Barrister Taimur Malik"
+    },
+    {
+      "ConstituencyNo": "NA-149",
+      "ConstituencyName": "Multan-ll",
+      "CandidateName": "Malik Amir Dogar"
+    },
+    {
+      "ConstituencyNo": "NA-150",
+      "ConstituencyName": "Multan-lll",
+      "CandidateName": "Zain Qureshi"
+    },
+    {
+      "ConstituencyNo": "NA-151",
+      "ConstituencyName": "Multan-lV",
+      "CandidateName": "Shah Mehmood Qureshi/Mehar Bano Qureshi"
+    },
+    {
+      "ConstituencyNo": "NA-152",
+      "ConstituencyName": "Multan-V",
+      "CandidateName": "Ibrahim Khan/Imran Shaukat"
+    },
+    {
+      "ConstituencyNo": "NA-153",
+      "ConstituencyName": "Multan-Vl",
+      "CandidateName": "Dr. Riaz Lang"
+    },
+    {
+      "ConstituencyNo": "NA-154",
+      "ConstituencyName": "Lodhran-l",
+      "CandidateName": "Rana Faraz Ahmad Noon"
+    },
+    {
+      "ConstituencyNo": "NA-155",
+      "ConstituencyName": "Lodhran-ll",
+      "CandidateName": "Pir Iqbal Shah"
+    },
+    {
+      "ConstituencyNo": "NA-156",
+      "ConstituencyName": "Vehari-l",
+      "CandidateName": "Ayesha Nazir Jutt"
+    },
+    {
+      "ConstituencyNo": "NA-157",
+      "ConstituencyName": "Vehari-ll",
+      "CandidateName": "Ejaz Bandeshia"
+    },
+    {
+      "ConstituencyNo": "NA-158",
+      "ConstituencyName": "Vehari-lll",
+      "CandidateName": "Tahir Iqbal Ch"
+    },
+    {
+      "ConstituencyNo": "NA-159",
+      "ConstituencyName": "Vehari-lV",
+      "CandidateName": "Aurangzeb Khichi"
+    },
+    {
+      "ConstituencyNo": "NA-160",
+      "ConstituencyName": "Bahawalnagar-l",
+      "CandidateName": "Dr. Noor Ghafari"
+    },
+    {
+      "ConstituencyNo": "NA-161",
+      "ConstituencyName": "Bahawalnagar-ll",
+      "CandidateName": "Imtiaz Alam Gilani"
+    },
+    {
+      "ConstituencyNo": "NA-162",
+      "ConstituencyName": "Bahawalnagar-lll",
+      "CandidateName": "Ch Khalil Arain"
+    },
+    {
+      "ConstituencyNo": "NA-163",
+      "ConstituencyName": "Bahawalnagar-lV",
+      "CandidateName": "Shoukar Basra/Talat Mehmood Basra"
+    },
+    {
+      "ConstituencyNo": "NA-164",
+      "ConstituencyName": "Bahawalpur-l",
+      "CandidateName": "Ijaz Ghaddan"
+    },
+    {
+      "ConstituencyNo": "NA-165",
+      "ConstituencyName": "Bahawalpur-ll",
+      "CandidateName": "Basharat Randhawa"
+    },
+    {
+      "ConstituencyNo": "NA-166",
+      "ConstituencyName": "Bahawalpur-lll",
+      "CandidateName": "Kanwal Shauzab"
+    },
+    {
+      "ConstituencyNo": "NA-167",
+      "ConstituencyName": "Bahawalpur-lV",
+      "CandidateName": "Malik Mehboob Ahmed"
+    },
+    {
+      "ConstituencyNo": "NA-168",
+      "ConstituencyName": "Bahawalpur-V",
+      "CandidateName": "Sami Ullah Ch."
+    },
+    {
+      "ConstituencyNo": "NA-169",
+      "ConstituencyName": "Rahim Yar Khan-l",
+      "CandidateName": "Raja Saleem"
+    },
+    {
+      "ConstituencyNo": "NA-170",
+      "ConstituencyName": "Rahim Yar Khan-ll",
+      "CandidateName": "Mian Ghous"
+    },
+    {
+      "ConstituencyNo": "NA-171",
+      "ConstituencyName": "Rahim Yar Khan-lll",
+      "CandidateName": "Mumtaz Mustafa Advocate"
+    },
+    {
+      "ConstituencyNo": "NA-172",
+      "ConstituencyName": "Rahim Yar Khan-lV",
+      "CandidateName": "Mrs. Qamar Javed Waraich"
+    },
+    {
+      "ConstituencyNo": "NA-173",
+      "ConstituencyName": "Rahim Yar Khan-V",
+      "CandidateName": "Barrister Nabeel Dharr"
+    },
+    {
+      "ConstituencyNo": "NA-174",
+      "ConstituencyName": "Rahim Yar Khan-Vl",
+      "CandidateName": "Raees Mehboob"
+    },
+    {
+      "ConstituencyNo": "NA-175",
+      "ConstituencyName": "Muzaffargarh-l",
+      "CandidateName": "Jamshaid Dasti"
+    },
+    {
+      "ConstituencyNo": "NA-176",
+      "ConstituencyName": "Muzaffargarh-ll",
+      "CandidateName": "Mrs. Humaira Ahmad Khan"
+    },
+    {
+      "ConstituencyNo": "NA-177",
+      "ConstituencyName": "Muzaffargarh-lll",
+      "CandidateName": "Moazam Jatoi"
+    },
+    {
+      "ConstituencyNo": "NA-178",
+      "ConstituencyName": "Muzaffargarh-lV",
+      "CandidateName": "Dawood Jatoi"
+    },
+    {
+      "ConstituencyNo": "NA-179",
+      "ConstituencyName": "Kot Addu-l",
+      "CandidateName": "Shabbir Qureshi"
+    },
+    {
+      "ConstituencyNo": "NA-180",
+      "ConstituencyName": "Kot Addu-ll",
+      "CandidateName": "Mian Fayaz Chajra"
+    },
+    {
+      "ConstituencyNo": "NA-181",
+      "ConstituencyName": "Layyah-l",
+      "CandidateName": "Mrs. Amber Majeed Niazi"
+    },
+    {
+      "ConstituencyNo": "NA-182",
+      "ConstituencyName": "Layyah-ll",
+      "CandidateName": "Awais Haider Jhakar"
+    },
+    {
+      "ConstituencyNo": "NA-183",
+      "ConstituencyName": "Taunsa",
+      "CandidateName": "Khwaja Sheraz Mehmood"
+    },
+    {
+      "ConstituencyNo": "NA-184",
+      "ConstituencyName": "D.G.Khan-l",
+      "CandidateName": "Ali Muhammad Khalul"
+    },
+    {
+      "ConstituencyNo": "NA-185",
+      "ConstituencyName": "D.G.Khan-ll",
+      "CandidateName": "Zartaj Gul Wazir"
+    },
+    {
+      "ConstituencyNo": "NA-186",
+      "ConstituencyName": "D.G.Khan-lll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-187",
+      "ConstituencyName": "Rajanpur-l",
+      "CandidateName": "Atif Ali Khan Dhreshak"
+    },
+    {
+      "ConstituencyNo": "NA-188",
+      "ConstituencyName": "Rajanpur-ll",
+      "CandidateName": "Ahmed Ali Khan Dhreshak"
+    },
+    {
+      "ConstituencyNo": "NA-189",
+      "ConstituencyName": "Rajanpur-lll",
+      "CandidateName": "Zahid Mehmood Mazari"
+    },
+    {
+      "ConstituencyNo": "NA-190",
+      "ConstituencyName": "Jacobabad",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-191",
+      "ConstituencyName": "Jacobabad-Cum-Kashmore",
+      "CandidateName": "Shah Ali Domki"
+    },
+    {
+      "ConstituencyNo": "NA-192",
+      "ConstituencyName": "Kashmore-Cum-Shikarpur",
+      "CandidateName": "Muhammad Alam Bajarani"
+    },
+    {
+      "ConstituencyNo": "NA-193",
+      "ConstituencyName": "Shikarpur",
+      "CandidateName": "Advocate Aftab Somro"
+    },
+    {
+      "ConstituencyNo": "NA-194",
+      "ConstituencyName": "Larkana-l",
+      "CandidateName": "Saif Ullah Abro"
+    },
+    {
+      "ConstituencyNo": "NA-195",
+      "ConstituencyName": "Larkana-ll",
+      "CandidateName": "Qazi Manzoor Ahmed"
+    },
+    {
+      "ConstituencyNo": "NA-196",
+      "ConstituencyName": "Kamber Shahdadkot-l",
+      "CandidateName": "Habibullah"
+    },
+    {
+      "ConstituencyNo": "NA-197",
+      "ConstituencyName": "Kamber Shahdadkot-ll",
+      "CandidateName": "Naheed Khawar"
+    },
+    {
+      "ConstituencyNo": "NA-198",
+      "ConstituencyName": "Ghotki-l",
+      "CandidateName": "Abdul Sattar Samoon"
+    },
+    {
+      "ConstituencyNo": "NA-199",
+      "ConstituencyName": "Ghotki-ll",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-200",
+      "ConstituencyName": "Sukkur-l",
+      "CandidateName": "Gohar Khoso"
+    },
+    {
+      "ConstituencyNo": "NA-201",
+      "ConstituencyName": "Sukkur-ll",
+      "CandidateName": "Sattar Chachar"
+    },
+    {
+      "ConstituencyNo": "NA-202",
+      "ConstituencyName": "Khairpur-l",
+      "CandidateName": "Ambareen Malik"
+    },
+    {
+      "ConstituencyNo": "NA-203",
+      "ConstituencyName": "Khairpur-ll",
+      "CandidateName": "Jameel Ahmed Lund"
+    },
+    {
+      "ConstituencyNo": "NA-204",
+      "ConstituencyName": "Khairpur-lll",
+      "CandidateName": "Syed Niaz Shah"
+    },
+    {
+      "ConstituencyNo": "NA-205",
+      "ConstituencyName": "Naushahro Feroze-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-206",
+      "ConstituencyName": "Naushahro Feroze-ll",
+      "CandidateName": "Amanullah"
+    },
+    {
+      "ConstituencyNo": "NA-207",
+      "ConstituencyName": "Shaheed Benazirabad-l",
+      "CandidateName": "Sardar Sher Muhammad Rind Baloch"
+    },
+    {
+      "ConstituencyNo": "NA-208",
+      "ConstituencyName": "Shaheed Benazirabad-ll",
+      "CandidateName": "Gul Muhammad Rind"
+    },
+    {
+      "ConstituencyNo": "NA-209",
+      "ConstituencyName": "Sanghar-l",
+      "CandidateName": "Hameeda Shah"
+    },
+    {
+      "ConstituencyNo": "NA-210",
+      "ConstituencyName": "Sanghar-ll",
+      "CandidateName": "Manochaher"
+    },
+    {
+      "ConstituencyNo": "NA-211",
+      "ConstituencyName": "Mirpurkhas-l",
+      "CandidateName": "Raja Abdul Haque"
+    },
+    {
+      "ConstituencyNo": "NA-212",
+      "ConstituencyName": "Mirpurkhas-ll",
+      "CandidateName": "Syed Mumtaz Shah"
+    },
+    {
+      "ConstituencyNo": "NA-213",
+      "ConstituencyName": "Umerkot",
+      "CandidateName": "Lalchand Malhi"
+    },
+    {
+      "ConstituencyNo": "NA-214",
+      "ConstituencyName": "Tharparkar-l",
+      "CandidateName": "Makhdoom Shah Mehmood Qureshi"
+    },
+    {
+      "ConstituencyNo": "NA-215",
+      "ConstituencyName": "Tharparkar-ll",
+      "CandidateName": "Mehar u Nisa Baloch"
+    },
+    {
+      "ConstituencyNo": "NA-216",
+      "ConstituencyName": "Matiari",
+      "CandidateName": "Nazish Bhatti"
+    },
+    {
+      "ConstituencyNo": "NA-217",
+      "ConstituencyName": "Tando Allahyar",
+      "CandidateName": "Rozina Bhutto"
+    },
+    {
+      "ConstituencyNo": "NA-218",
+      "ConstituencyName": "Hyderabad-l",
+      "CandidateName": "Muhram Khan"
+    },
+    {
+      "ConstituencyNo": "NA-219",
+      "ConstituencyName": "Hyderabad-ll",
+      "CandidateName": "Mustansir Billah"
+    },
+    {
+      "ConstituencyNo": "NA-220",
+      "ConstituencyName": "Hyderabad-lll",
+      "CandidateName": "Faisal Mughal"
+    },
+    {
+      "ConstituencyNo": "NA-221",
+      "ConstituencyName": "Tando Muhammad Khan",
+      "CandidateName": "Muhammad Irfan"
+    },
+    {
+      "ConstituencyNo": "NA-222",
+      "ConstituencyName": "Badin-l",
+      "CandidateName": "Shah Nawaz"
+    },
+    {
+      "ConstituencyNo": "NA-223",
+      "ConstituencyName": "Badin-ll",
+      "CandidateName": "Azizullah Dero"
+    },
+    {
+      "ConstituencyNo": "NA-224",
+      "ConstituencyName": "Sajawal",
+      "CandidateName": "Mumtaz Ali Shah"
+    },
+    {
+      "ConstituencyNo": "NA-225",
+      "ConstituencyName": "Thatta",
+      "CandidateName": "Syed Jameel Ahmed Shah Bukhari"
+    },
+    {
+      "ConstituencyNo": "NA-226",
+      "ConstituencyName": "Jamshoro",
+      "CandidateName": "Abdul Hakeem Chandio"
+    },
+    {
+      "ConstituencyNo": "NA-227",
+      "ConstituencyName": "Dadu-l",
+      "CandidateName": "Shabana Nawab"
+    },
+    {
+      "ConstituencyNo": "NA-228",
+      "ConstituencyName": "Dadu-ll",
+      "CandidateName": "Madad Ali Sodhar"
+    },
+    {
+      "ConstituencyNo": "NA-229",
+      "ConstituencyName": "Malir-l",
+      "CandidateName": "Wali Muhammad Mugheri"
+    },
+    {
+      "ConstituencyNo": "NA-230",
+      "ConstituencyName": "Malir-ll",
+      "CandidateName": "Dr Masroor Sial"
+    },
+    {
+      "ConstituencyNo": "NA-231",
+      "ConstituencyName": "Malir-lll",
+      "CandidateName": "Khalid Mehmood Ali"
+    },
+    {
+      "ConstituencyNo": "NA-232",
+      "ConstituencyName": "Karachi Korangi-l",
+      "CandidateName": "Aleem Adil Sheikh"
+    },
+    {
+      "ConstituencyNo": "NA-233",
+      "ConstituencyName": "Karachi Korangi-ll",
+      "CandidateName": "Advocate Haris Meo"
+    },
+    {
+      "ConstituencyNo": "NA-234",
+      "ConstituencyName": "Karachi Korangi-lll",
+      "CandidateName": "Faheem Khan"
+    },
+    {
+      "ConstituencyNo": "NA-235",
+      "ConstituencyName": "Karachi East-l",
+      "CandidateName": "Saif ur Rehman"
+    },
+    {
+      "ConstituencyNo": "NA-236",
+      "ConstituencyName": "Karachi East-ll",
+      "CandidateName": "Muhammad Alamgir Khan"
+    },
+    {
+      "ConstituencyNo": "NA-237",
+      "ConstituencyName": "Karachi East-lll",
+      "CandidateName": "Advocate Zahoor Mehsud"
+    },
+    {
+      "ConstituencyNo": "NA-238",
+      "ConstituencyName": "Karachi East-lV",
+      "CandidateName": "Haleem Adil Sheikh"
+    },
+    {
+      "ConstituencyNo": "NA-239",
+      "ConstituencyName": "Karachi South-l",
+      "CandidateName": "Yasir Balochs"
+    },
+    {
+      "ConstituencyNo": "NA-240",
+      "ConstituencyName": "Karachi South-ll",
+      "CandidateName": "Ramzan Ghachi"
+    },
+    {
+      "ConstituencyNo": "NA-241",
+      "ConstituencyName": "Karachi South-lll",
+      "CandidateName": "Khurram Sher Zaman"
+    },
+    {
+      "ConstituencyNo": "NA-242",
+      "ConstituencyName": "Karachi Keamari-l",
+      "CandidateName": "Dawa Khan"
+    },
+    {
+      "ConstituencyNo": "NA-243",
+      "ConstituencyName": "Karachi Keamari-ll",
+      "CandidateName": "Advocate Shujaat Ali Khan"
+    },
+    {
+      "ConstituencyNo": "NA-244",
+      "ConstituencyName": "Karachi West-l",
+      "CandidateName": "Aftab Jahangir"
+    },
+    {
+      "ConstituencyNo": "NA-245",
+      "ConstituencyName": "Karachi West-ll",
+      "CandidateName": "Ataullah Khan"
+    },
+    {
+      "ConstituencyNo": "NA-246",
+      "ConstituencyName": "Karachi West-lll",
+      "CandidateName": "Malik Arif Awan"
+    },
+    {
+      "ConstituencyNo": "NA-247",
+      "ConstituencyName": "Karachi Central-l",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-248",
+      "ConstituencyName": "Karachi Central-ll",
+      "CandidateName": "Arslan Khalid"
+    },
+    {
+      "ConstituencyNo": "NA-249",
+      "ConstituencyName": "Karachi Central-lll",
+      "CandidateName": "Barrister Uzair Ghouri"
+    },
+    {
+      "ConstituencyNo": "NA-250",
+      "ConstituencyName": "Karachi Central-lV",
+      "CandidateName": "Riaz Hyder"
+    },
+    {
+      "ConstituencyNo": "NA-251",
+      "ConstituencyName": "Sherani",
+      "CandidateName": "Nawabzada Amin Jogezai"
+    },
+    {
+      "ConstituencyNo": "NA-252",
+      "ConstituencyName": "Musa Khail",
+      "CandidateName": "Sardar Babar Musakhel"
+    },
+    {
+      "ConstituencyNo": "NA-253",
+      "ConstituencyName": "Ziarat",
+      "CandidateName": "Saddam Tareen"
+    },
+    {
+      "ConstituencyNo": "NA-254",
+      "ConstituencyName": "Jhal Magsi",
+      "CandidateName": "Pir Bux Jamoot"
+    },
+    {
+      "ConstituencyNo": "NA-255",
+      "ConstituencyName": "Sohbat Pur",
+      "CandidateName": "Arif Rind"
+    },
+    {
+      "ConstituencyNo": "NA-256",
+      "ConstituencyName": "Khuzdar",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-257",
+      "ConstituencyName": "Hub-cum-Lasbela",
+      "CandidateName": "Mir Ali Ahmad Zehri"
+    },
+    {
+      "ConstituencyNo": "NA-258",
+      "ConstituencyName": "Panjgur-cum-Kech",
+      "CandidateName": "Sardar Baber Khan Musakhail"
+    },
+    {
+      "ConstituencyNo": "NA-259",
+      "ConstituencyName": "Kech-cum-Gwadar",
+      "CandidateName": "Sardar Akbar Tarin"
+    },
+    {
+      "ConstituencyNo": "NA-260",
+      "ConstituencyName": "Chagai",
+      "CandidateName": "Ghulam Qadir Sanjrani"
+    },
+    {
+      "ConstituencyNo": "NA-261",
+      "ConstituencyName": "Surab",
+      "CandidateName": "PENDING"
+    },
+    {
+      "ConstituencyNo": "NA-262",
+      "ConstituencyName": "Quetta-l",
+      "CandidateName": "Saif Ullah Kakar"
+    },
+    {
+      "ConstituencyNo": "NA-263",
+      "ConstituencyName": "Quetta-ll",
+      "CandidateName": "Salar Khan Kakar"
+    },
+    {
+      "ConstituencyNo": "NA-264",
+      "ConstituencyName": "Quetta-lll",
+      "CandidateName": "Zain ul Abidin Khilji"
+    },
+    {
+      "ConstituencyNo": "NA-265",
+      "ConstituencyName": "Pishin",
+      "CandidateName": "Syed Zahoor Agha"
+    },
+    {
+      "ConstituencyNo": "NA-266",
+      "ConstituencyName": "Killa Abdullah",
+      "CandidateName": "Malak Muhammad Asmat Kakar"
+    }
+  ]
+}
